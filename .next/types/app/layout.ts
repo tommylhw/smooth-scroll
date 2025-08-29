@@ -1,4 +1,4 @@
-// File: /Users/tommywong/Documents/IT/WebDesign/Project/smooth-scroll/src/app/layout.tsx
+// File: D:\Tommy Doc\smooth-scroll\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
